@@ -1,6 +1,1 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
-description: "to show my skills to future employers
+Hi, I'm Omar, a cybersecurtiy enthusiast with a background in IT suppport and computer forensics. With hands on experience ensuring HIPPA compliance and problem-solving in high-pressure enviroments, i specialize in systems scurtiy and digital investigation. currently diving deeper into expanding my knowledge and certifcations through course such as Google Cybersecurity course and Splunk's courses. I am passionate about exploring cuttting-edge solutions to keep data secure, and anticipating connecting with you!
