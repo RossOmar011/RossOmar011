@@ -1,2 +1,14 @@
-Hi, I'm Omar, a cybersecurtiy enthusiast with a background in IT suppport and computer forensics. With hands on experience ensuring HIPPA compliance and problem-solving in high-pressure enviroments, i specialize in systems scurtiy and digital investigation. currently diving deeper into expanding my knowledge and certifcations through course such as Google Cybersecurity course and Splunk's courses. I am passionate about exploring cuttting-edge solutions to keep data secure, and anticipating connecting with you!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RossOmar011)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, Omar Ross
+#### Soc Analysis 
+![Soc Analysis ](Banner URL)
+
+I'm Omar, a cybersecurity enthusiast with a background in IT support and computer forensics. With hands on experience ensuring HIPPA compliance and problem-solving in high-pressure enviroments, i specialize in systems scurtiy and digital investigation. currently diving deeper into expanding my knowledge and certifcations through course such as Google Cybersecurity course and Splunk's courses. I am passionate about exploring cuttting-edge solutions to keep data secure, and anticipating connecting with you!
+
+Skills: Python, Linux, Windows, Azure
+
+- 🔭 I’m currently working on this page, along with serval other projects like creating and managing of a virtual SIEM lab. 
+- 🌱 I’m currently learning at Coursera and Splunk to become certified within the next month 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rossomar011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omar-ross-cybersecurity/)  
+
