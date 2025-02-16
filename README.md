@@ -5,7 +5,8 @@
 
 I'm Omar, a cybersecurity enthusiast with a background in IT support and computer forensics. With hands on experience ensuring HIPPA compliance and problem-solving in high-pressure enviroments, i specialize in systems scurtiy and digital investigation. currently diving deeper into expanding my knowledge and certifcations through course such as Google Cybersecurity course and Splunk's courses. I am passionate about exploring cuttting-edge solutions to keep data secure, and anticipating connecting with you!
 
-# Skills and Experience
+# Skills 
+<a href="">lab</a>
 * 💻 Programming Languagesh
 * Python, JavaScript, Bas
 * 🛠 Digital Tools and Forensics
@@ -16,6 +17,9 @@ I'm Omar, a cybersecurity enthusiast with a background in IT support and compute
 
  🔭 I’m currently working on this page, along with serval other projects like creating and managing of a virtual SIEM lab. 
 🌱 I’m currently learning at Coursera and Splunk to become certified within the next month 
+
+
+
 
 <img src= "https://github.com/RossOmar011/RossOmar011/blob/main/security-shield.gif?raw=true" width="256" />
 
