@@ -17,7 +17,7 @@ I'm Omar, a cybersecurity enthusiast with a background in IT support and compute
  🔭 I’m currently working on this page, along with serval other projects like creating and managing of a virtual SIEM lab. 
 🌱 I’m currently learning at Coursera and Splunk to become certified within the next month 
 
-< img src= "https://github.com/RossOmar011/RossOmar011/blob/main/security-shield.gif?raw=true" width="256" />
+<img src= "https://github.com/RossOmar011/RossOmar011/blob/main/security-shield.gif?raw=true" width="256" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rossomar011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omar-ross-cybersecurity/)  
