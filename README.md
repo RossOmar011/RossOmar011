@@ -7,11 +7,17 @@ I'm Omar, a cybersecurity enthusiast with a background in IT support and compute
 
 # Skills 
 <a href="https://github.com/RossOmar011/SQL-Queries/blob/main/README.md">SQL Queries</a>
+
  💻 Programming Languagesh
+ 
 * Python, JavaScript, Bas
+  
  🛠 Digital Tools and Forensics
+
 * Azure, Wireshark, Splunk
+  
  💾 Operating Systems
+
 * Linux (Ubuntu, Kali) windows
   
 
