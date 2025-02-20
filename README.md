@@ -3,6 +3,8 @@
 ### Hi there 👋,I am Omar Ross
 #### Soc Analysis 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRossOmar011=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm Omar, a cybersecurity enthusiast with a background in IT support and computer forensics. With hands on experience ensuring HIPPA compliance and problem-solving in high-pressure enviroments, i specialize in systems scurtiy and digital investigation. currently diving deeper into expanding my knowledge and certifcations through course such as Google Cybersecurity course and Splunk's courses. I am passionate about exploring cuttting-edge solutions to keep data secure, and anticipating connecting with you!
 
 # Skills 
